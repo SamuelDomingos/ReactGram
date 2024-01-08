@@ -1,0 +1,34 @@
+.authguard{
+    max-width: 33%;
+    border: 1px solid #363636;
+    padding: 1.5em 2em;
+    margin: 2em auto;
+    background-color: #000;
+}
+
+.authguard h2{
+    text-align: center;
+    font-size: 2.1em;
+    margin-top: 0;
+}
+
+.subtitle{
+    font-weight: bold;
+    color: #999;
+    margin-bottom: 1.5em;
+}
+
+.form{
+    padding-bottom: 1.5em;
+    margin-bottom: 1.5em;
+    border: 1px solid #363636;
+    width: 100%;
+}
+
+p {
+    text-align: center;
+}
+
+p a{
+    font-weight: bold;
+}
